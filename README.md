@@ -1,2 +1,2 @@
 # deep-learning
-Deep Learning Experiments
+I am developing different deep learning projects from the scratch using PyTorch as a part of learning process
