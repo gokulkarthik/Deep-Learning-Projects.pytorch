@@ -6,3 +6,4 @@ This space is to tune my practical deep learning skills. I will develop various 
 
 ### References
 1. https://pytorch.org/tutorials/index.html
+2. https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
