@@ -1,4 +1,4 @@
-# Deep Learning
+# Deep Learning Projects using PyTorch
 
 This space is to tune my practical deep learning skills. I will develop various deep learning projects using PyTorch without any Ctrl+C and Ctrl+V and will upload the notebooks here.
 
