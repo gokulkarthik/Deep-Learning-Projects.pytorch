@@ -9,3 +9,4 @@ This space is to tune my practical deep learning skills. I will develop various 
 ### Code References
 1. https://pytorch.org/tutorials/index.html
 2. https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
+3. https://nextjournal.com/gkoehler/pytorch-neural-style-transfer
