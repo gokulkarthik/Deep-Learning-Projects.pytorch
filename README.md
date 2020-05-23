@@ -1,6 +1,6 @@
 # Deep Learning Projects using PyTorch
 
-This space is to tune my practical deep learning skills. I will develop various deep learning projects using PyTorch without any Ctrl+C and Ctrl+V and will upload the notebooks here.
+This space is to tune my practical deep learning skills.
 
 1. [Image] **Fashion MNIST Dataset** - Multi Class Image Classification using modified LeNet [[Link]](https://github.com/GokulKarthik/Deep-Learning-Projects-Pytorch/blob/master/1-Multi-Class-Image-Classification-Fashion-MNIST.ipynb)
 2. [Text] **Language Words Dataset** - Multi Class Word Classification using character level LSTM [[Link]](https://github.com/GokulKarthik/Deep-Learning-Projects-Pytorch/blob/master/2-Multi-Class-Word-Language-Classification.ipynb)
