@@ -7,6 +7,7 @@ This space is to tune my practical deep learning skills.
 3. [Text] **US Baby Names Dataset** - Name Generation using character level LSTM [[Link]](https://github.com/GokulKarthik/Deep-Learning-Projects-Pytorch/blob/master/3-Baby-Name-Generation.ipynb)
 4. [Image] Neural Style Transfer using pre trained VGG19 Net [[Link]](https://github.com/GokulKarthik/deep-learning/blob/master/4-neural-style-transfer.ipynb)
 5. [Image + Text] **CAPTCHA Dataset** - Text Recognition with CRNN using pre trained RESNET and Bi-GRU [[Link]]( https://github.com/GokulKarthik/Deep-Learning-Projects-Pytorch/blob/master/5-Captcha-Text-Recognition-With-CRNN.ipynb)
+5. [Image] **Cityscape Image Pairs Dataset - Kaggle** - Image Segmentation with UNet [[Link]](https://github.com/GokulKarthik/Deep-Learning-Projects-Pytorch/blob/master/6-Image-Segmentation-with-UNet.ipynb)
 
 ### Code References
 1. https://pytorch.org/tutorials/index.html
